@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "这里是材质的介绍",
+        "name": "改成资源包名字",
+        "uuid": "自己去百度找个网站生成个UUID（不要和上面用一个）",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "description": "这里是材质的介绍",
+            "type": "resources",
+            "uuid": "自己去百度找个网站生成个UUID（不要和上面用一个）",
+            "version": [0, 0, 1]
+        }
+    ]
+}

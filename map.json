@@ -1,0 +1,42 @@
+{
+    "Min" : {
+        "X" : 0,
+        "Y" : 0,
+        "Z" : 0
+    },
+    "Max" : {
+        "X" : 1,
+        "Y" : 0,
+        "Z" : 1
+    },
+    "Data" : [
+        {
+            "X" : 0,
+            "Y" : 0,
+            "Z" : 0,
+            "From" : "MineWorld",
+            "Name" : "GrassBlock"
+        },
+        {
+            "X" : 1,
+            "Y" : 0,
+            "Z" : 0,
+            "From" : "MineWorld",
+            "Name" : "GrassBlock"
+        },
+        {
+            "X" : 0,
+            "Y" : 0,
+            "Z" : 1,
+            "From" : "MineWorld",
+            "Name" : "GrassBlock"
+        },
+        {
+            "X" : 1,
+            "Y" : 0,
+            "Z" : 1,
+            "From" : "MineWorld",
+            "Name" : "GrassBlock"
+        }
+    ]
+}
